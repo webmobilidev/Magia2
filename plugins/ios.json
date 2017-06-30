@@ -32,18 +32,11 @@
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.designbest.magia2"
         },
-        "cordova-plugin-contacts": {
-            "CONTACTS_USAGE_DESCRIPTION": " ",
-            "PACKAGE_NAME": "com.designbest.magia2"
-        },
         "cordova-plugin-x-socialsharing": {
             "PACKAGE_NAME": "com.designbest.magia2"
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.magia2"
-        },
         "es6-promise-plugin": {
             "PACKAGE_NAME": "com.designbest.magia2"
         }
